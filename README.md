@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing employee attrition and engagement fr
 
 ## Preview
 
-![Alt Text](images/dashboard_image.png)
+![Alt Text](dashboard_image.png)
 
 
 ![Alt Text](images/dashboard_image_2.png)
