@@ -6,13 +6,8 @@ An interactive Power BI dashboard analyzing employee attrition and engagement fr
 
 ## Preview
 
-![Alt Text](HR-Analytics-Attrition-Engagement-Dashboard/dashboard_image.png)
-
-
-![Alt Text](images/dashboard_image_2.png)
-
-  
-
+![Dashboard Overview](dashboardimage.png)
+![Department & Tenure](dashboardimage2.png)
 
 - Track headcount, attrition rate, satisfaction, and tenure to highlight risk areas.  
 - Enable slice-and-dice analysis by department, tenure band, gender, and income band.  
