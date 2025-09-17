@@ -1,4 +1,3 @@
-Here’s a polished README you can paste directly into your repo. Replace screenshot file names if needed, and update links if you change folders.
 
 # HR Analytics: Attrition & Engagement Dashboard
 
